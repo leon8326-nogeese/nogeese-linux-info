@@ -6,15 +6,15 @@ Inforamation about the upcoming Nogeese Linux Distro.
 For Home Users.
 
 It Includes the KDE MegaRelease 6.
-## Minimal
+### Minimal
 For Tinkerers.
 
 It Includes no desktop enviorment.
-## Server
+### Server
 For Servers.
 
 It Includes the KDE MegaRelease 6 and Nogeese Server Toolkit.
-## GNOME Spin
+### GNOME Spin
 For Home Users that prefer the GNOME Desktop. ([Nogeese Supports Choice](https://github.com/leon8326-nogeese/nogeese-linux-info/blob/main/CHOICE.md).)
 
 It's highly customized.
