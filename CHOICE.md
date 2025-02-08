@@ -7,4 +7,4 @@ You don't need Nogeese Features to run Nogeese Linux, you can choose KDE or GNOM
 
 Like everything in Linux.
 
-(Well, not [systemd](https://systemd.io). :\ )
+(Well, not [systemd](https://systemd.io).)
