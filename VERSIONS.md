@@ -5,6 +5,6 @@ And this distro IS still rolling release, it just represents the version of [Bli
 If you want to, you can just update the distro by running:
 
 ```
-nogeeselinux-update
+nogeeselinux-update check-and-update
 ```
 
